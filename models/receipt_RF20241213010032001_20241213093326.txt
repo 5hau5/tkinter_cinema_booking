@@ -1,0 +1,15 @@
+
+            Booking Receipt
+            ----------------------
+            Booking Reference: RF20241213010032001
+            Film Name: Inception
+            Showtime Date: 2024-12-15
+            Showtime Time: 09:00
+            Screen #: Screen 1
+            Number of Tickets: 3
+            Seat Numbers: 1,12,83
+            Total Booking Cost: $18.20
+            Booking Date: 2024-12-13
+            ----------------------
+            Thank you for booking with us!
+            

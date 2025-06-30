@@ -1,0 +1,9 @@
+Staff Booking Report for November 2024
+==================================================
+User ID    Username             Bookings   Revenue   
+--------------------------------------------------
+1          admin1               6          $295.50    
+2          user1                6          $317.50    
+3          manager1             6          $505.00    
+4          staff1               6          $360.00    
+5          user2                6          $212.00    

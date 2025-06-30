@@ -1,0 +1,62 @@
+Film Sales Report
+==================================================
+Film ID: 1
+Film Name: Inception
+Total Showtimes: 8
+Total Bookings: 15
+Total Revenue: $679.68
+--------------------------------------------------
+Film ID: 2
+Film Name: Interstellar
+Total Showtimes: 7
+Total Bookings: 12
+Total Revenue: $761.50
+--------------------------------------------------
+Film ID: 3
+Film Name: The Dark Knight
+Total Showtimes: 6
+Total Bookings: 6
+Total Revenue: $332.00
+--------------------------------------------------
+Film ID: 4
+Film Name: Avatar
+Total Showtimes: 6
+Total Bookings: 0
+Total Revenue: $0.00
+--------------------------------------------------
+Film ID: 5
+Film Name: Titanic
+Total Showtimes: 4
+Total Bookings: 0
+Total Revenue: $0.00
+--------------------------------------------------
+Film ID: 6
+Film Name: The Matrix
+Total Showtimes: 1
+Total Bookings: 2
+Total Revenue: $43.60
+--------------------------------------------------
+Film ID: 7
+Film Name: Jurassic Park
+Total Showtimes: 0
+Total Bookings: 0
+Total Revenue: $0.00
+--------------------------------------------------
+Film ID: 8
+Film Name: The Godfather
+Total Showtimes: 0
+Total Bookings: 0
+Total Revenue: $0.00
+--------------------------------------------------
+Film ID: 9
+Film Name: Pulp Fiction
+Total Showtimes: 0
+Total Bookings: 0
+Total Revenue: $0.00
+--------------------------------------------------
+Film ID: 10
+Film Name: Forrest Gump
+Total Showtimes: 0
+Total Bookings: 0
+Total Revenue: $0.00
+--------------------------------------------------

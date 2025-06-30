@@ -1,0 +1,4 @@
+Staff Booking Report for December 2024
+==================================================
+User ID    Username             Bookings   Revenue   
+--------------------------------------------------

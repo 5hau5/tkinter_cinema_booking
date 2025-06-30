@@ -1,0 +1,21 @@
+Cinema Sales Report
+==================================================
+Cinema ID: 1
+Total Bookings: 11
+Unique Films Shown: 4
+Unique Shows: 7
+Total Revenue: $502.28
+==================================================
+
+Detailed Bookings:
+- Booking Ref: REF0001, Film: Inception, Cost: $45.0
+- Booking Ref: REF0007, Film: Inception, Cost: $50.0
+- Booking Ref: REF0015, Film: Inception, Cost: $35.0
+- Booking Ref: REF0027, Film: Inception, Cost: $70.5
+- Booking Ref: REF0028, Film: Interstellar, Cost: $95.0
+- Booking Ref: REF0029, Film: The Dark Knight, Cost: $80.0
+- Booking Ref: RF20241211010012001, Film: Inception, Cost: $34.58
+- Booking Ref: RF2024-12-11010012002, Film: Inception, Cost: $30.400000000000002
+- Booking Ref: RF2024-12-12010031001, Film: The Matrix, Cost: $25.4
+- Booking Ref: RF2024-12-12010031002, Film: The Matrix, Cost: $18.2
+- Booking Ref: RF20241213010032001, Film: Inception, Cost: $18.2
